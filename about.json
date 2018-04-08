@@ -1,66 +1,30 @@
 {
-  "name": "Material Design Theme",
-  "about_url": "https://meta.discourse.org/t/material-design-stock-theme/47142",
-  "license_url": "https://github.com/discourse/material-design-stock-theme/blob/master/LICENSE.txt",
+  "name": "TF-talk.net Theme",
+  "about_url": "https://github.com/tfProxy/discourse-tf-theme.git",
+  "license_url": "https://github.com/tfProxy/discourse-tf-theme/blob/master/LICENSE.txt",
   "color_schemes": {
-    "Material Teal/Amber": {
-      "primary": "212121",
-      "secondary": "fafafa",
-      "tertiary": "ffa000",
-      "quaternary": "00796b",
-      "header_background": "00796b",
+    "Tf-talk Light": {
+      "primary": "222222",
+      "secondary": "f6f5f0",
+      "tertiary": "a88344",
+      "quaternary": "72D270",
+      "header_background": "488A54",
       "header_primary": "ffffff",
-      "highlight": "ffff8d",
-      "danger": "ff5722",
-      "success": "4caf50",
-      "love": "fa6c8d"
-    },
-    "Material Red/Blue": {
-      "primary": "212121",
-      "secondary": "fafafa",
-      "tertiary": "448aff",
-      "quaternary": "d32f2f",
-      "header_background": "d32f2f",
-      "header_primary": "ffffff",
-      "highlight": "ffff8d",
-      "danger": "ff6d00",
-      "success": "4caf50",
-      "love": "fa6c8d"
-    },
-    "Material Blue/Red": {
-      "primary": "212121",
-      "secondary": "fafafa",
-      "tertiary": "ff5252",
-      "quaternary": "2196f3",
-      "header_background": "1976f2",
-      "header_primary": "ffffff",
-      "highlight": "ffff8d",
-      "danger": "ff6d00",
-      "success": "4caf50",
-      "love": "fa6c8d"
-    },
-    "Material Indigo/Orange": {
-      "primary": "212121",
-      "secondary": "fafafa",
-      "tertiary": "ff5722",
-      "quaternary": "3f51b5",
-      "header_background": "303f9f",
-      "header_primary": "ffffff",
-      "highlight": "ffeb3b",
-      "danger": "f44336",
-      "success": "4caf50",
-      "love": "fa6c8d"
-    },
-    "Material Dark": {
-      "primary": "fafafa",
-      "secondary": "212121",
-      "tertiary": "00bcd4",
-      "quaternary": "00bcd4",
-      "header_background": "000000",
-      "header_primary": "ffffff",
-      "highlight": "fafafa",
+      "highlight": "ddda5e",
       "danger": "e45735",
-      "success": "009900",
+      "success": "47ff47",
+      "love": "fa6c8d"
+    },
+    "Tf-talk Dark": {
+      "primary": "dddddd",
+      "secondary": "222222",
+      "tertiary": "247b24",
+      "quaternary": "c14924",
+      "header_background": "111111",
+      "header_primary": "dddddd",
+      "highlight": "a87137",
+      "danger": "e45735",
+      "success": "1ca551",
       "love": "fa6c8d"
     }
   }
